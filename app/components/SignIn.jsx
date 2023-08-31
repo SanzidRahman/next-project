@@ -1,7 +1,7 @@
 'use client'
 const SignIn = () => {
   return (
-    <div  className="h-64 w-6/12 mt-10 bg-green-400 absolute left-80 rounded-lg ">
+    <div  className="h-64 w-6/12 mt-10 bg-gray-700 absolute left-80 rounded-lg ">
          <h2 className="text-center text-2xl">Sign In</h2>
          <form className="flex flex-col p-10">
             <label className="text-white" typeof='name'>Name :</label>
